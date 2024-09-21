@@ -1,3 +1,6 @@
+Here is the updated `README.md` with a hyperlink to **Sanjana's** profile in the "Special Thanks" section:
+
+```markdown
 # Inventory Management System
 
 ## Overview
@@ -28,3 +31,28 @@ Follow these steps to get the system up and running:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/inventory-management.git
+   ```
+2. Install any necessary dependencies.
+3. Set up the MySQL database using the schema provided in the repository.
+4. Launch the application.
+
+## Usage
+Upon launching the application:
+1. Navigate through the user-friendly interface to access key features.
+2. Perform actions such as inventory search, displaying stock details, adding or deleting items, making purchases, and updating inventory information.
+3. Experience a streamlined workflow that optimizes your inventory management process.
+
+## Contributing
+We welcome contributions! Whether you're reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued and appreciated. Help us make this project better for everyone.
+
+## License
+This project is licensed under the **MIT License**, making it open for use, modification, and distribution.
+
+## Acknowledgments
+Special recognition goes to **Kedhar**, whose vision and hard work have significantly shaped the success of this project.
+
+Special thanks to [**Sanjana**](https://github.com/SanjanaReddySangam) for her invaluable support and contributions.
+
+## Contact Information
+For further inquiries or to discuss potential improvements, feel free to reach out at [kedharnadh800@gmail.com](mailto:kedharnadh800@gmail.com).
+```
