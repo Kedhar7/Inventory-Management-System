@@ -1,6 +1,3 @@
-Here is the updated `README.md` with a hyperlink to **Sanjana's** profile in the "Special Thanks" section:
-
-```markdown
 # Inventory Management System
 
 ## Overview
