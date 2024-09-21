@@ -1,10 +1,10 @@
 # Inventory Management System
 
 ## Overview
-The **Inventory Management System** is a robust and scalable solution tailored to meet the demands of modern businesses. It offers a seamless approach to managing inventory operations through a suite of powerful tools designed to simplify tasks such as searching, displaying, adding/deleting items, purchasing, and updating stock levels. With a focus on reducing manual effort and minimizing errors, this system empowers businesses to manage their inventory with precision and ease, all while enhancing productivity.
+The **Inventory Management System** is a robust and scalable solution tailored to meet the demands of modern businesses. It offers a seamless approach to managing inventory operations through a suite of powerful tools designed to simplify tasks such as searching, displaying, adding/deleting items, purchasing, and updating stock levels. With a focus on reducing manual effort and minimizing errors, this system empowers businesses to manage their inventory precisely and easily, all while enhancing productivity.
 
 ## Features
-- **Intuitive User Interface**: Designed with simplicity in mind, the system offers a clean, easy-to-navigate interface, enabling quick access to all essential functions.
+- **Intuitive User Interface**: Designed with simplicity, the system offers a clean, easy-to-navigate interface, enabling quick access to all essential functions.
 - **Real-Time Data Synchronization**: Powered by MySQL, the system ensures that inventory data is always up-to-date, providing businesses with accurate insights for better decision-making.
 - **Full Inventory Control**: From searching and displaying stock to adding, deleting, purchasing, and updating items, this system offers comprehensive inventory management capabilities.
 - **Highly Scalable**: Built to grow with your business, the system handles increasing inventory volumes and user loads with optimized performance.
@@ -46,10 +46,7 @@ We welcome contributions! Whether you're reporting a bug, suggesting an enhancem
 This project is licensed under the **MIT License**, making it open for use, modification, and distribution.
 
 ## Acknowledgments
-Special recognition goes to **Kedhar**, whose vision and hard work have significantly shaped the success of this project.
-
-Special thanks to [**Sanjana**](https://github.com/SanjanaReddySangam) for her invaluable support and contributions.
+Special recognition goes to [**Sanjana**](https://github.com/SanjanaReddySangam), whose vision and hard work have significantly shaped the success of this project.
 
 ## Contact Information
 For further inquiries or to discuss potential improvements, feel free to reach out at [kedharnadh800@gmail.com](mailto:kedharnadh800@gmail.com).
-```
